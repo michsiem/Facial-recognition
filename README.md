@@ -1,5 +1,5 @@
 # supreme-octo
-Simple facial recognition app for Python
+Simple facial recognition on static image app for Python
 
 
 Requirements:
