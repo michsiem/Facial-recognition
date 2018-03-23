@@ -7,7 +7,7 @@ Requirements:
 
 
 
-You can install it by using the command below 
+You can install opencv by using the command below 
 
 pip install opencv-python
 
